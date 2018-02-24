@@ -7,4 +7,4 @@ This repository containes the ui.R and server.R files of the app.
 
 The shiny app can be viewed at [this link](https://sainathkovelamudi.shinyapps.io/ddp-shinyapp/).
 
-The presentation is published to Rpubs and can be opened from [this link]().
+The presentation is published to Rpubs and can be opened from [this link](https://rpubs.com/sainath/ddp-coursera).
